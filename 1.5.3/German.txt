@@ -416,7 +416,7 @@
 
 # End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=teilen
     End_Mission_Menu_Title=Missionserfolge:
-    End_Mission=Mission beenden
+    End_Mission=Mission vollenden
 
 # Clear space junk/debris
     Clear_Debris_Warning=Trümmer beseitigen?
